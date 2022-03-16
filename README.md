@@ -1,2 +1,2 @@
-# linalg
-Linear algebra library for games and graphics with generics
+# geom
+Geometric functions for games and graphics with generics
